@@ -1,0 +1,89 @@
+[
+  {
+    "image": "https://i.ibb.co/Ns73bQP/id-01.jpg",
+    "estate_title": "Modern Loft in Downtown",
+    "id": 1,
+    "segment_name": "Penthouse",
+    "description": "Enjoy urban living at its finest in this sleek modern loft located in the heart of downtown. Floor-to-ceiling windows offer stunning city views.",
+    "price": "$800,000",
+    "status": "For Sale",
+    "area": "1800 sq ft",
+    "location": "City Center, Los Angeles",
+    "facilities": [
+      "open-concept living space",
+      "rooftop deck",
+      "gym",
+      "concierge service"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/d4YKF84/id-02.jpg",
+    "estate_title": "Seaside Private Beach Villa",
+    "id": 2,
+    "segment_name": "Beachfront Properties",
+    "description": "Experience ultimate luxury in this exquisite seaside villa featuring private beach access, infinity pool, and panoramic ocean views.",
+    "price": "$10000/month",
+    "status": "For Rent",
+    "area": "6000 sq ft",
+    "location": "Oceanfront Estates, Florida",
+    "facilities": [
+      "spacious living room",
+      "infinity pool",
+      "private beachfront",
+      "home theater"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/VwGy6jK/id-03.jpg",
+    "estate_title": "Luxury Resort Retreat",
+    "id": 3,
+    "segment_name": "Resorts",
+    "description": "Indulge in luxury at this resort retreat featuring world-class amenities, lush landscapes, and unparalleled service.",
+    "price": "$5,000,000",
+    "status": "For Sale",
+    "area": "8000 sq ft",
+    "location": "Tropical Paradise, Hawaii",
+    "facilities": ["multiple pools", "spa", "tennis courts", "fine dining"]
+  },
+  {
+    "image": "https://i.ibb.co/zbdvmKb/id-04.jpg",
+    "estate_title": "Private Island Paradise",
+    "id": 4,
+    "segment_name": "Private Islands",
+    "description": "Escape to your own private paradise on this secluded island. With pristine beaches and crystal-clear waters, it's the ultimate getaway.",
+    "price": "$25000/month",
+    "status": "For Rent",
+    "area": "20 acres",
+    "location": "Exotic Archipelago, Caribbean",
+    "facilities": ["luxury villa", "beachfront cabanas", "jetty", "helipad"]
+  },
+  {
+    "image": "https://i.ibb.co/ZGPN9TM/id-05.jpg",
+    "estate_title": "Luxurious Mediterranean Villa",
+    "id": 5,
+    "segment_name": "Villas",
+    "description": "Live the Mediterranean dream in this luxurious villa boasting panoramic sea views, lush gardens, and exquisite architecture.",
+    "price": "$12000/month",
+    "status": "For Rent",
+    "area": "4500 sq ft",
+    "location": "Costa del Sol, Spain",
+    "facilities": [
+      "spacious living areas",
+      "infinity pool",
+      "landscaped gardens",
+      "poolside bar"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/FXVtbBs/id-06.jpg",
+    "estate_title": "Grand Mansion Estate",
+    "id": 6,
+    "segment_name": "Mansions",
+    "description": "Experience grandeur and opulence in this magnificent mansion estate featuring lavish interiors, manicured grounds, and luxury amenities.",
+    "price": "$15,000,000",
+    "status": "For Sale",
+    "area": "15,000 sq ft",
+    "location": "Beverly Hills, California",
+    "facilities": ["ballroom", "home theater", "indoor pool", "guest house"]
+  }
+]
