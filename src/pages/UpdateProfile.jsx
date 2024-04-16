@@ -42,6 +42,8 @@ const UpdateProfile = () => {
       </Helmet>
       <div className='max-w-md mx-auto mt-10 p-6 bg-white rounded-lg shadow-md'>
         <h2 className='text-2xl font-semibold mb-4'>User Profile</h2>
+       
+        <div className=" flex rounded-full justify-center"> <img  src={image} alt="" /></div>
         <form onSubmit={handleSubmit}>
           <div className='mb-4'>
             <label htmlFor='displayName' className='block text-gray-700'>
