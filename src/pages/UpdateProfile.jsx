@@ -38,7 +38,7 @@ const UpdateProfile = () => {
   return (
     <>
       <Helmet>
-        <title>NS | Update Profile</title>
+        <title>M-property | Update Profile</title>
       </Helmet>
       <div className='max-w-md mx-auto mt-10 p-6 bg-white rounded-lg shadow-md'>
         <h2 className='text-2xl font-semibold mb-4'>User Profile</h2>

@@ -6,7 +6,7 @@ const Error = () => {
     return (
       <div>
         <Helmet>
-          <title>NS | Error</title>
+          <title>M-property | Error</title>
         </Helmet>
         <div>
           <Navbar></Navbar>

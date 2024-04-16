@@ -9,7 +9,7 @@ const allLink = (
       to='/'
       className={({ isActive }) =>
         isActive
-          ? "text-lg mr-4 text-[#23BE0A] font-semibold rounded-lg border border-[#23BE0A] px-5 py-3"
+          ? "text-lg mr-4  font-semibold rounded-lg border  bg-slate-500 px-5 py-3"
           : "text-[#131313CC] text-lg mr-4 rounded-lg font-normal  px-5 py-3"
       }>
       Home
@@ -19,7 +19,7 @@ const allLink = (
       to='/updateProfile'
       className={({ isActive }) =>
         isActive
-          ? "text-lg mr-4 text-[#23BE0A] font-semibold  rounded-lg border border-[#23BE0A] px-5 py-3"
+          ? "text-lg mr-4  font-semibold  rounded-lg border bg-slate-500  px-5 py-3"
           : "text-[#131313CC] text-lg mr-4 rounded-lg font-normal px-5 py-3"
       }>
       Update Profile
@@ -29,7 +29,7 @@ const allLink = (
       to='/faq'
       className={({ isActive }) =>
         isActive
-          ? "text-lg mr-4 text-[#23BE0A] font-semibold  rounded-lg border border-[#23BE0A] px-5 py-3"
+          ? "text-lg mr-4  font-semibold  rounded-lg border bg-slate-500 px-5 py-3"
           : "text-[#131313CC] text-lg mr-4 rounded-lg font-normal px-5 py-3"
       }>
       FAQ
@@ -57,7 +57,7 @@ const Navbar = () => {
         </div>
         <button>
           <NavLink to='/' className='text-3xl font-bold text-[#131313] '>
-            NS Property
+          M-property
           </NavLink>
         </button>
       </div>

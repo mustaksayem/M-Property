@@ -43,7 +43,7 @@ const Login = () => {
   return (
     <>
       <Helmet>
-        <title>NS | Login</title>
+        <title>M-property | Login</title>
       </Helmet>
 
       <div className='w-full mx-auto lg:w-[500px] drop-shadow-2xl bg-white p-6'>
