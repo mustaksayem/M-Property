@@ -7,7 +7,7 @@ import Slider from "../components/body/Slider";
 
 const Home = () => {
     return (
-        <div>
+        <div className="m-10">
             <Helmet>
                 <title>M-property | Home</title>
             </Helmet>

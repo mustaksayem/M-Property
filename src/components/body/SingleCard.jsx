@@ -16,7 +16,7 @@ const SingleCard = ({ card }) => {
   } = card;
   return (
     <div>
-      <div className='flex flex-col p-3 border-2  border-[#13131326] space-y-6 overflow-hidden shadow-lg bg-white rounded-2xl   '>
+      <div className='flex flex-col p-3 border-2  border-[#13131326] space-y-6 overflow-hidden shadow-lg bg-white rounded-2xl  mt-10 '>
         <div className='mb-6 relative'>
           <div className='absolute left-4 right-4 top-4'>
             <button className='rounded-lg bg-[#eb2f2f] px-3 py-1 font-medium text-white text-lg'>
