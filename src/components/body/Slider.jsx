@@ -24,7 +24,7 @@ const Slider = () => {
         <SwiperSlide>
           <img
             className='lg:h-[calc(100vh-130px)] w-auto lg:w-full rounded-2xl '
-            src='https://i.ibb.co/vhrPQSg/slider-2.webp'
+            src='https://i.ibb.co/Sf6jLnP/5.jpg'
             alt='Slider-1'
           />
         </SwiperSlide>
@@ -38,7 +38,7 @@ const Slider = () => {
         <SwiperSlide>
           <img
             className='lg:h-[calc(100vh-130px)] w-auto lg:w-full rounded-2xl'
-            src='https://i.ibb.co/09dD3Fk/slider-3.jpg'
+            src='https://i.ibb.co/fvCqCq1/4.jpg'
             alt='Slider-3'
           />
          

@@ -10,7 +10,7 @@ const SingleCard = ({ card }) => {
     
     price,
     status,
-    area,
+
     location,
     
   } = card;

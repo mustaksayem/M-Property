@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://i.ibb.co/Ns73bQP/id-01.jpg",
+    "image": "https://i.ibb.co/fpbtdMk/3.webp",
     "estate_title": "Modern Loft in Downtown",
     "id": 1,
     "segment_name": "Penthouse",
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/d4YKF84/id-02.jpg",
+    "image": "https://i.ibb.co/zbdvmKb/id-04.jpg ",
     "estate_title": "Seaside Private Beach Villa",
     "id": 2,
     "segment_name": "Beachfront Properties",
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/VwGy6jK/id-03.jpg",
+    "image": "https://i.ibb.co/swRmDpq/2.webp",
     "estate_title": "Luxury Resort Retreat",
     "id": 3,
     "segment_name": "Resorts",
@@ -46,7 +46,7 @@
     "facilities": ["multiple pools", "spa", "tennis courts", "fine dining"]
   },
   {
-    "image": "https://i.ibb.co/zbdvmKb/id-04.jpg",
+    "image": "https://i.ibb.co/d4YKF84/id-02.jpg",
     "estate_title": "Private Island Paradise",
     "id": 4,
     "segment_name": "Private Islands",
@@ -58,7 +58,7 @@
     "facilities": ["luxury villa", "beachfront cabanas", "jetty", "helipad"]
   },
   {
-    "image": "https://i.ibb.co/ZGPN9TM/id-05.jpg",
+    "image": "https://i.ibb.co/FXVtbBs/id-06.jpg ",
     "estate_title": "Luxurious Mediterranean Villa",
     "id": 5,
     "segment_name": "Villas",
@@ -75,7 +75,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/FXVtbBs/id-06.jpg",
+    "image": "https://i.ibb.co/8XSWntn/1.jpg",
     "estate_title": "Grand Mansion Estate",
     "id": 6,
     "segment_name": "Mansions",
