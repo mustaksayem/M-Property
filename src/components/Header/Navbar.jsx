@@ -26,13 +26,13 @@ const allLink = (
     </NavLink>
 
     <NavLink
-      to='/faq'
+      to='/meeting'
       className={({ isActive }) =>
         isActive
           ? "text-lg mr-4  font-semibold  rounded-lg border bg-slate-500 px-5 py-3"
           : "text-[#131313CC] text-lg mr-4 rounded-lg font-normal px-5 py-3"
       }>
-      FAQ
+      Meeting
     </NavLink>
    
   </>

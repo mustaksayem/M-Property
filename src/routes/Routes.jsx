@@ -7,6 +7,7 @@ import Error from "../pages/Error";
 import Register from "../pages/Register";
 import PrivateRoutes from "./PrivateRoutes";
 import UpdateProfile from "../pages/UpdateProfile";
+import SetMeeting from "../pages/SetMeeting";
 
 export const router = createBrowserRouter([
   {
@@ -43,6 +44,16 @@ export const router = createBrowserRouter([
         path: "/register",
         element: <Register></Register>,
       },
+
+      {
+        path: "/meeting",
+        element: (
+          <PrivateRoutes>
+            <SetMeeting></SetMeeting>
+          </PrivateRoutes>
+        ),
+      },
+      
     ],
   },
 ]);
