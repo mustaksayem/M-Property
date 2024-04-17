@@ -40,7 +40,7 @@ const UpdateProfile = () => {
       <Helmet>
         <title>M-property | Update Profile</title>
       </Helmet>
-      <div className='max-w-md mx-auto mt-10 p-6 bg-white rounded-lg shadow-md'>
+      <div data-aos="fade-up" className='max-w-md mx-auto mt-10 p-6 bg-white rounded-lg shadow-md '>
         <h2 className='text-2xl font-semibold mb-4'>User Profile</h2>
        
         <div className=" flex rounded-full justify-center"> <img  src={image} alt="" /></div>

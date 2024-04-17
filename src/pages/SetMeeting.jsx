@@ -14,7 +14,7 @@ const SetMeeting = () => {
   };
 
   return (
-    <div className='max-w-md mx-auto mt-8 p-6 bg-gray-100 shadow-md rounded-md'>
+    <div data-aos="fade-up" className='max-w-md mx-auto mt-8 p-6 bg-gray-100 shadow-md rounded-md'>
       <h2 className='text-2xl font-semibold mb-4'>Schedule a Meeting</h2>
       <form onSubmit={handleSubmit}>
         <div className='mb-4'>
