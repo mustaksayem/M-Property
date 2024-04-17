@@ -19,15 +19,15 @@ const UpdateProfile = () => {
     setImage(e.target.value);
   };
 
-  const handleSubmit =  (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     // setReload(true);
-    setUpdateData(true);
-    window.location.reload();
+    setUpdateData(false);
+    
     
     try {
       updateUserProfile(displayName, image);
-      setUpdateData(false);
+      setUpdateData(true);
       toast.success("Profile updated successfully!");
     } catch (error) {
       setUpdateData(false);
