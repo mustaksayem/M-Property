@@ -8,7 +8,7 @@
     "price": "$800,000",
     "status": "For Sale",
     "area": "1800 sq ft",
-    "location": "City Center, Los Angeles",
+    "location": "City Center",
     "facilities": [
       "open-concept living space",
       "rooftop deck",
@@ -20,12 +20,12 @@
     "image": "https://i.ibb.co/zbdvmKb/id-04.jpg ",
     "estate_title": "Seaside Private Beach Villa",
     "id": 2,
-    "segment_name": "Beachfront Properties",
+    "segment_name": "Beachfront",
     "description": "Experience ultimate luxury in this exquisite seaside villa featuring private beach access, infinity pool, and panoramic ocean views.",
     "price": "$10000/month",
     "status": "For Rent",
     "area": "6000 sq ft",
-    "location": "Oceanfront Estates, Florida",
+    "location": "Oceanfront Estates",
     "facilities": [
       "spacious living room",
       "infinity pool",
@@ -42,7 +42,7 @@
     "price": "$5,000,000",
     "status": "For Sale",
     "area": "8000 sq ft",
-    "location": "Tropical Paradise, Hawaii",
+    "location": "Tropical Paradise",
     "facilities": ["multiple pools", "spa", "tennis courts", "fine dining"]
   },
   {
@@ -54,7 +54,7 @@
     "price": "$25000/month",
     "status": "For Rent",
     "area": "20 acres",
-    "location": "Exotic Archipelago, Caribbean",
+    "location": "Exotic Archipelago",
     "facilities": ["luxury villa", "beachfront cabanas", "jetty", "helipad"]
   },
   {
@@ -83,7 +83,7 @@
     "price": "$15,000,000",
     "status": "For Sale",
     "area": "15,000 sq ft",
-    "location": "Beverly Hills, California",
+    "location": "Beverly Hills",
     "facilities": ["ballroom", "home theater", "indoor pool", "guest house"]
   }
 ]
