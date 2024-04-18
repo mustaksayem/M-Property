@@ -1,8 +1,23 @@
-# React + Vite
+# M Property
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Click to visit [M-Property.com](https://assignment-9-ed137.web.app/)
 
-Currently, two official plugins are available:
+## NPM Lists
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- npm i aos
+- npm install react-hook-form
+- npm install swiper
+
+
+## Features and Characteristics
+
+- **Property Listings** 
+  
+- **Responsive Design:**
+  
+- **Property Search Functionality** 
+  
+- **Private Route:** 
+  
+- **Contact and Inquiry Forms:**
+
