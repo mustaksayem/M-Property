@@ -95,7 +95,7 @@ const Navbar = () => {
           </div>
         ) : (
           <Link to='/login'>
-            <button className='bg-[#23BE0A] flex justify-center items-center rounded-lg text-white font-semibold py-4 px-6 mr-0'>
+            <button className='bg-teal-400 flex justify-center items-center rounded-lg text-white font-semibold py-4 px-6 mr-0'>
               Login
               <span className='pl-2 pt-1 text-xl'>
                 <VscAccount />

@@ -9,7 +9,7 @@ const CardDetails = () => {
   return (
     <div>
       <Helmet>
-        <title>NS | Product - {id}</title>
+        <title>M-property | Product - {id}</title>
       </Helmet>
       <div className='flex flex-col lg:flex-row gap-3 lg:gap-12'>
         <div className='w-full lg:w-1/2 bg-[#23BE0A0D] rounded-2xl items-center p-2 flex   justify-center'>
