@@ -1,6 +1,6 @@
 import { getAuth } from "firebase/auth";
 import { initializeApp } from "firebase/app";
-// console.log('inside fire base', import.meta.env.VITE_CHECK);
+
 const firebaseConfig = {
    
     apiKey: import.meta.env.VITE_APIKEY,
@@ -13,6 +13,6 @@ const firebaseConfig = {
 
 
 const app = initializeApp(firebaseConfig);
-// Initialize Firebase Authentication and get a reference to the service
+
 const auth = getAuth(app);
 export default auth;

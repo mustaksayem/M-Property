@@ -2,7 +2,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
-// Done
+
 import { Autoplay, Pagination, Navigation } from "swiper/modules";
 
 const Slider = () => {
